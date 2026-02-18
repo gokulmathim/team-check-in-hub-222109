@@ -1,1 +1,3 @@
-# team-check-in-hub-222109
+# Project Repository
+
+This is the initial README file for the project.
